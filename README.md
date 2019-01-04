@@ -18,7 +18,7 @@ __Disclaimer:__ _Oh My Bash works best on macOS and Linux._
 * `curl` or `wget` should be installed
 * `git` should be installed
 
-/** ### Basic Installation
+<!-- ### Basic Installation
 
 Oh My Bash is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
 
@@ -33,10 +33,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh -O -)"
 ```
-*//
+
 
 ## Using Oh My Bash
-
+-->
 ### Plugins
 
 Oh My Bash comes with a shit load of plugins to take advantage of. You can take a look in the [plugins](https://github.com/ohmybash/oh-my-bash/tree/master/plugins) directory and/or the [wiki](https://github.com/ohmybash/oh-my-bash/wiki/Plugins) to see what's currently available.
