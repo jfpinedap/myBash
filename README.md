@@ -127,7 +127,7 @@ cp ~/.bashrc ~/.bashrc.orig
 You can create a new sh config file by copying the template that we have included for you.
 
 ```shell
-cp ~/.oh-my-bash/templates/bashrc.osh-template ~/.bashrc
+cp ~/.oh-my-bash/templates/bashrc.osh-template-jfp ~/.bashrc
 ```
 
 ##### 4. Reload your .bashrc
